@@ -15,4 +15,4 @@ CREATE TABLE product(
 
 );
 
-INSERT INTO product()
+SELECT * FROM product;
