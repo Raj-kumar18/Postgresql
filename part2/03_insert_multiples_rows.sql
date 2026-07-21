@@ -11,3 +11,5 @@ VALUES
 ('Puma Sports T-Shirt', 'Clothing', 1299.00, 40, 'Dry-fit sports t-shirt'),
 ('Wildcraft Backpack', 'Bags', 2499.00, 22, '35L travel backpack');
  
+
+SELECT price FROM product WHERE price >= 100
